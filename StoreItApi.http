@@ -1,0 +1,6 @@
+@StoreItApi_HostAddress = http://localhost:5198
+
+GET {{StoreItApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
